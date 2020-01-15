@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 
 import CollectionItem from "../../components/collection-item/collection-item.component";
 
-import CollectionsContext from "../../contexts/collections.context";
+import CollectionsContext from "../../contexts/collections/collections.context";
 
 import "./collection.styles.scss";
 
